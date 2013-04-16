@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: Kommentar
+# key: comment
+# --
+\textcomm{%
+\abschnitt{\transl{%
+`yas/selected-text`}%
+\kap{$1}\fundort{}{}{}{}%
+$0}%
+}
