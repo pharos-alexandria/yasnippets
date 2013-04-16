@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Abschnitt (mit allem)
+# key: abschn
+# --
+\abschnitt{\transl{%
+`yas/selected-text`}%
+\kap{$1}$0}%
